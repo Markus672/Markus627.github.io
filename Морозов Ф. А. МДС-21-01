@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Обо мне</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f2f2f2;
+        }
+        .card {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            max-width: 600px;
+            margin: auto;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>Привет!</h1>
+        <p><strong>Фамилия И. О.:</strong> Морозов Ф. А.</p>
+        <p><strong>Группа:</strong> МДС-21-01</p>
+        <p><strong>О себе:</strong> Люблю моделировать.</p>
+    </div>
+</body>
+</html>
